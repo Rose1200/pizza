@@ -126,11 +126,12 @@ header .icons div:hover {
     padding: 2rem;
   }
 }
-/*
+.content{
  background: url(Pizza/hot.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-
+}
+ /*
   .README{
     background-color: #2f1812;
   }
